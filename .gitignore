@@ -1,0 +1,7 @@
+tmp/
+*.logfile
+ssutmp*
+*ssu-align.sh
+esltmp*
+.ipynb_checkpoints
+html/
