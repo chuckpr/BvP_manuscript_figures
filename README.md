@@ -8,12 +8,12 @@ A preprint can be found at
 
 ## IPython notebooks for figures and table
 
-[Figure 3]()  
-[Figure 4]()  
-[Figure 5]()  
-[Figure 6]()  
-[Figure 7]()  
-[Table 1]() 
+[Figure 3](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/figures_and_stats/rarefaction_curves.ipynb)  
+[Figure 4](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/figures_and_stats/ordination_BP.ipynb)  
+[Figure 5](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/figures_and_stats/l2fc_figs.ipynb)  
+[Figure 6](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/figures_and_stats/rank_abundance.ipynb)  
+[Figure 7](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/figures_and_stats/rarefaction_curves.ipynb)  
+[Table 1](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/figures_and_stats/LTP_BLAST_table.ipynb) 
 
 ## Sequence processing IPython notebooks
 
