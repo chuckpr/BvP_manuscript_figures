@@ -17,13 +17,13 @@ A preprint can be found at
 
 ## Sequence processing IPython notebooks
 
-[Quality control of 16S rRNA gene sequences]()  
-[Quality control of plastid 23S rRNA gene sequences]()  
-[Taxonomically annotate 16S sequences]()  
-[Taxonomically annotate 23S sequences]()  
-[Bin 16S sequences into OTUs]()  
-[Bin 23S sequences into OTUs]()  
-[BLAST sequences against LTP database]()  
+[Quality control of 16S rRNA gene sequences](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/sequence_QC_B.ipynb)  
+[Quality control of plastid 23S rRNA gene sequences](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/sequence_QC_A.ipynb)  
+[Taxonomically annotate 16S sequences](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/classify_OTUS_B.ipynb)  
+[Taxonomically annotate 23S sequences](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/classify_OTUS_A.ipynb)  
+[Bin 16S sequences into OTUs](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/OTU_binning_B.ipynb)  
+[Bin 23S sequences into OTUs](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/OTU_binning_A.ipynb)
+[BLAST sequences against LTP database](http://nbviewer.ipython.org/github/chuckpr/BvP_manuscript_figures/blob/master/BLAST.ipynb)  
 
 ## Description of files in data directory
 
